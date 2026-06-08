@@ -3,7 +3,7 @@ id: "bbbf2b0d-437a-466a-b2cd-ff03aeb21756"
 name: "plan-usability-tests"
 display_name: "Plan Usability Tests"
 description: "Creates a test plan with tasks, scenarios, and success criteria"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "prompt"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 1
